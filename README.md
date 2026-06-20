@@ -7,7 +7,7 @@ AWS Deep Cutsは、AWS の最新のサービスやニッチな機能、または
 
 # 公開サービス一覧
 
-1. [AWS Entity Resolution](./AWS-Entity-Resolution/)
+1. [AWS Entity Resolution](https://github.com/AWS-Deep-Cuts/aws-entity-resolution)
 
 # 公開予定
 - Amazon Bedrock AgentCore：AIエージェントの実行基盤、MCPツール化、メモリ、監視など、生成AIアプリケーションの運用面を触って理解する。
