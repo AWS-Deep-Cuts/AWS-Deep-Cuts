@@ -6,6 +6,9 @@ AWS Deep Cutsは、AWS の最新のサービスやニッチな機能、または
 そこで AWS Deep Cuts シリーズでは、**前提知識も含めた分かりやすいサービス解説** と **手順通りに進めれば誰でも再現できるハンズオン** を提供します！
 
 # 公開サービス一覧
+AWS Deep CutsのOrganizationsから確認してください。
+
+https://github.com/orgs/AWS-Deep-Cuts/repositories
 
 1. [AWS Entity Resolution](https://github.com/AWS-Deep-Cuts/aws-entity-resolution)
 
