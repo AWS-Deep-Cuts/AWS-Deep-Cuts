@@ -1,3 +1,7 @@
 [submodule "aws-entity-resolution"]
 	path = aws-entity-resolution
 	url = https://github.com/AWS-Deep-Cuts/aws-entity-resolution.git
+	branch = main
+[submodule "aws-local-zones"]
+	path = aws-local-zones
+	url = https://github.com/AWS-Deep-Cuts/aws-local-zones.git

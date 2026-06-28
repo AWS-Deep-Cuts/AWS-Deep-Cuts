@@ -11,6 +11,7 @@ AWS Deep CutsのOrganizationsから確認してください。
 https://github.com/orgs/AWS-Deep-Cuts/repositories
 
 1. [AWS Entity Resolution](https://github.com/AWS-Deep-Cuts/aws-entity-resolution)
+2. [AWS Local Zones](https://github.com/AWS-Deep-Cuts/aws-local-zones)
 
 # 公開予定
 - Amazon Bedrock AgentCore：AIエージェントの実行基盤、MCPツール化、メモリ、監視など、生成AIアプリケーションの運用面を触って理解する。
@@ -21,7 +22,6 @@ https://github.com/orgs/AWS-Deep-Cuts/repositories
 - AWS HealthOmics：WDL、Nextflow、CWLなどのワークフローを使い、ゲノム解析・バイオインフォマティクス基盤の入口を体験する。
 - AWS Deadline Cloud：レンダーファーム、ジョブキュー、Open Job Descriptionを通じて、映像制作向けのマネージド分散処理を試す。
 - Amazon DataZone：データカタログ、ガバナンス、Lake Formation連携など、データ民主化を支える運用の勘所を整理する。
-- AWS Local Zones：日本未提供のサービスを実際に触り、低レイテンシ拠点の構築やローカルリソースの振る舞いを確認する。
 - Amazon Location Service：地図表示、ジオコーディング、ジオフェンス、トラッキングなど、位置情報機能をAWSネイティブに組み込む方法を試す。
 
 各テーマはAWS公式ドキュメントや最新情報を確認しながら、内容・順番を随時見直します。
